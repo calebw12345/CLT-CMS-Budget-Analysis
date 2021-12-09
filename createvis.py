@@ -1,4 +1,4 @@
-#open the csv file and convert it to a csv list
+#NOTE: The September 2021 CPS csv file was too large to upload to github, to access this data table please refer to https://www.census.gov/data/datasets/time-series/demo/cps/cps-basic.html
 #Author: Caleb w
 
 #open the excel file and convert it to a manipulatable csv file
